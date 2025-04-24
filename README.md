@@ -1,3 +1,8 @@
+# 🐍 Python Mini Projects
+
+A collection of small Python projects built for fun, practice, and learning.  
+Each script is self-contained and beginner-friendly!
+
 ## 📦 Projects Included
 
 - 🔐 **Password Generator** (`Password_Generator.py`)  
