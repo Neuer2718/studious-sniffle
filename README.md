@@ -1,8 +1,3 @@
-# 🐍 Python Mini Projects
-
-A collection of small Python projects built for fun, practice, and learning.  
-Each script is self-contained and beginner-friendly!
-
 ## 📦 Projects Included
 
 - 🔐 **Password Generator** (`Password_Generator.py`)  
@@ -20,10 +15,5 @@ Each script is self-contained and beginner-friendly!
 - ⚙️ **Prime Number Generator** (`prime_number_generator.py`)  
   Generate all prime numbers within a given range.
 
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/yourusername/python-mini-projects.git
-cd python-mini-projects
+- ➗ **Simple Calculator** (`simple_calculator.py`)  
+  Perform basic arithmetic operations like addition, subtraction, multiplication, division, square root, and exponentiation.
