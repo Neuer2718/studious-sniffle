@@ -46,5 +46,6 @@ def main():
             print("👋 Thanks for using the Prime Checker. Goodbye!")
             break
 
-# Run the program
-main()
+# Run the program when executed directly
+if __name__ == "__main__":
+    main()
